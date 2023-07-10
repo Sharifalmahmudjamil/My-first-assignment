@@ -1,0 +1,53 @@
+.flower{
+    display: flex;
+    justify-content: space-between;
+    padding: 180px;
+    padding-right: 300px;
+}
+
+.banner{
+    display: flex;
+    color: #272727;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: normal;
+}
+.pragraph{
+    display: flex;
+    width: 600px;
+    flex-direction: column;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px;
+   
+}
+.flower{
+    background-color: rgba(229, 84, 115, 0.10);
+}
+.btn{
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+}
+.shop{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+.rightside-div{
+    width: 630px;
+    height: 800px;
+    /* flex-shrink: 0; */
+}
+
+
+ 
