@@ -211,3 +211,77 @@
     justify-content: center;
     gap: 30px;
 }
+
+/* section2 styles */
+
+.sunflower{
+    max-width: 100%;
+    height: auto;
+    margin-top: 50px;
+    margin-left: 100px;
+    /* margin-right: 50px; */
+    position: relative;
+
+}
+.banner-text{
+    position: absolute;
+    top: 0;
+}
+.get{
+    color: #272727;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-left: 550px;
+    margin-top: 150px;
+
+}
+.rose{
+    padding-left: 620px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.email{
+    width: 700px;
+    height: 64px;
+    flex-shrink: 0;
+    color: rgba(39, 39, 39, 0.60);
+    /* text-align: center; */
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    border: none;
+    border-radius: 8px;
+    background: #FFF;
+    margin-left: 30%;
+}
+.sub{
+    width: 150px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+    margin-left: 100%; 
+    
+}
+.spa{
+    display: flex;
+    width: 88px;
+    height: 27.429px;
+    flex-direction: column;
+    /* flex-shrink: 0; */
+    color: #FFF;
+   font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+     font-weight: 700;
+     
+    
+}
