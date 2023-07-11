@@ -40,7 +40,7 @@
     align-items: flex-start;
     gap: 10px;
 }
-.shop{
+.mira{
     color: #FFF;
     font-size: 20px;
     font-weight: 500;
@@ -284,4 +284,35 @@
      font-weight: 700;
      
     
+}
+/* footer-section */
+
+.footer-section{
+    width: 1922px;
+    height: 449px;
+    flex-shrink: 0;
+    background: #111010;
+}
+.shop{
+    color: #E55473;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+     padding-top: 80px;
+
+    
+}
+.sh{
+    color: #FFF;
+}
+.key{
+   text-align: center;
+   color: #FFF;
+   font-family: 'Courier New', Courier, monospace;
+}
+.valo-number-diyen-vai{
+    text-align: center;
+    color: #FFF;
+    font-family: 'Courier New', Courier, monospace;
 }
